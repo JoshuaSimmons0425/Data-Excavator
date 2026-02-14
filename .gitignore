@@ -37,5 +37,8 @@ wheels/
 .DS_Store
 Thumbs.db
 
-# Ignore temp file
+# Temporary and data files
 temp/
+*.log
+logs/
+.ipynb_checkpoints/
