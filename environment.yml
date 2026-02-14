@@ -1,11 +1,20 @@
 name: data-excavator
 channels:
   - defaults
-  - conda-forge
 dependencies:
-  - python=3.8
-  - numpy
+  - python=3.10
   - pandas
-  - matplotlib
+  - numpy
   - scikit-learn
+  - scipy
+  - matplotlib
+  - seaborn
+  - plotly
   - jupyterlab
+  - ipython
+  - notebook
+  - flask
+  - dask
+  - python-dotenv
+  - pyyaml
+  - git-lfs
